@@ -1,0 +1,52 @@
+#+TITLE: /Skins and Bones/
+#+SUBTITLE: HAR 470 Final Project Proposal
+#+OPTIONS: toc:nil num:nil
+#+LaTeX_HEADER: \usepackage[letterpaper]{geometry}
+#+LATEX_HEADER: \geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+
+* What
+This project will involve rigging a model skeleton with motors, LEDs, and a correspondent amount of WiFi-enabled microcontrollers. Each microcontroller will be responsible for controlling a single body part on the skeleton. The installation will have a web-interface, accessible by mobile and desktop browsers, where observers will be able to construct different "skins" for the skeleton. Upon selecting a body part to customize the skeleton with, a motor will "swing" a different skin forward from behind the skeleton. In this fashion, observers will be able to construct a character from the web interface. If time allows, I'd like to extend the project to give observes the ability to put the skeleton in different poses.
+
+
+* Why
+The project excites me because it adds another layer of interaction that I have yet to work with: the web interface. Additionally, I feel that observers will be able to emote with a character that they develop themselves. The macabre aspect of the skeleton before interaction, followed by the lively, colorful aspect of the skeleton after interaction will truly give the observers the feeling of bringing the piece to life themselves. This project will also provide me with the opportunity to learn about rigging animatronics; something that I have been fascinated with since my childhood.
+
+* Who
+My idea for the /Skins and Bones/ was inspired by the following artists:
+** Bert Berry
+Bert Berry is an art director for Pixar. His work on the Disney-Pixar movie /Coco/ was a huge inspiration for this project, in that it creates that stark contrast between the macabre and the lively.
+** David Hanson
+David Hanson created BINA48, a humanoid robot. After seeing a talk recently by Stephanie Dinkins through the VA&T lecture series at Stevens Institute of Technology about interacting with Hanson's robot, I was inspired to create an interaction between a human and a "robot" that could allow the observer to have a direct effect on the robot's appearance.
+** Jordan Wolfson
+Jordan Wolfson is an animatronics artist. He creates animatronics without reaching for extreme naturalism; he does not fear leaving joints or other machinery for his work exposed. His sculpture, "(Female Figure) 2014" even uses facial recognition to make eye contact with its observers. This attention to detail and carefully planned interaction inspired me to strive for the same effect in my project.
+
+* Timeline
+** Apr 16 -- Apr 23
+- Order parts
+- Experiment with controlling motors using the ESP8266 microcontroller
+- Experiment with controlling the motors from a web application
+** Apr 23 -- Apr 30
+- Begin rigging skeleton with motors
+- Install eyeballs
+- Draft software interaction through app
+- Control motors through the software
+- Design skins for the different body parts
+** Apr 30 -- May 7
+- Complete rigging for skeleton
+- Paint skins, mount skins onto axes
+- (Time allowing) Rig motors for different skeleton poses
+** May 10
+- Complete documentation for project
+
+* Materials / Supplies
+Materials will include:
+    - a model skeleton
+    - 10 microcontrollers (2 arms, 2 legs, chest, stomach, head, 2 eyes, master node)
+    - DC and servo motors to control each body part
+    - LEDs for the eyes
+    - metal rods as axes for the motors to spin around
+    - a 3D printed enclosure for the "brain" of the body (housing for microcontrollers)
+    - paints for the different body parts
+    - (possibly) rubber for the different skins, to give more of a natural look

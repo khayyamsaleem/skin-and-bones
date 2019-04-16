@@ -1,0 +1,8 @@
+_minted*
+*.odt
+*.html
+*.pdf
+*.tex
+*~
+*#
+.DS_Store
