@@ -1,0 +1,19 @@
+#+TITLE: Bill of Materials
+#+OPTIONS: toc:nil
+
+| *Description*              | *Qty* | *$EA*  | *Vendor*       | *Link*        |
+|----------------------------+-------+--------+----------------+---------------|
+| Elegoo Arduino R3 Board    |     1 | $5.44  | AliExpress     | [[https://www.aliexpress.com/item/high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html?spm=2114.search0104.3.9.2d6f7ff4SHk5KN&ws_ab_test=searchweb0_0,searchweb201602_10_10065_10130_10068_10890_10547_319_10546_317_10548_10545_10696_453_10084_454_10083_10618_10307_537_536_10059_10884_10887_321_322_10103,searchweb201603_52,ppcSwitch_0&algo_expid=f059dff9-33ec-464e-88ec-694a0cd17abb-1&algo_pvid=f059dff9-33ec-464e-88ec-694a0cd17abb][Order Here]]    |
+| 12V DC Motors              |     8 | $1.29  | AliExpress     | [[https://www.aliexpress.com/item/DC-Motor-Mini-280-DC-Motor-High-Speed-Strong-Magnetic-Toy-Car-DIY-Motors-DC-3/32994920323.html?spm=2114.search0104.3.152.6c439a7aRvzLki&ws_ab_test=searchweb0_0,searchweb201602_10_10065_10130_10068_10890_10547_319_10546_317_10548_10545_10696_453_10084_454_10083_10618_10307_537_536_10059_10884_10887_321_322_10103,searchweb201603_52,ppcSwitch_0&algo_expid=b607d25c-1e53-46f1-a8bf-9b4d108ec2ce-21&algo_pvid=b607d25c-1e53-46f1-a8bf-9b4d108ec2ce][Order Similar]] |
+| NodeMCU v3 ESP8266         |     1 | $2.21  | AliExpress     | [[https://www.aliexpress.com/item/V2-4M-4FLASH-NodeMcu-Lua-WIFI-Networking-development-board-Based-ESP8266/32647690484.html?spm=a2g0s.9042311.0.0.231e4c4dY34ssE][Order Here]]    |
+| 3/4" Plywood Sheet         |     1 | $26.31 | The Home Depot | [[https://www.homedepot.com/p/3-4-in-x-4-ft-x-4-ft-BC-Sanded-Pine-Plywood-1502208/205999854][Order Here]]    |
+| 1" x 1" Oak                |     4 | $2.31  | The Home Depot | [[https://www.homedepot.com/p/Weaber-1-in-x-1-in-x-Random-Length-S4S-Oak-Board-21073/207059032][Order Here]]    |
+| Adafruit Motor Shield v2.3 |     1 | $19.95 | Adafruit       | [[https://www.adafruit.com/product/1438][Order Here]]    |
+| 1 \mu F Ceramic capacitor    |     4 | $0.20  | Amazon         | [[https://www.amazon.com/Ceramic-Capacitor-Assortment-Kit-Non-Polarized/dp/B078PHKNNT/ref=sr_1_7?keywords=1+microfarad+capacitor&qid=1557520729&s=gateway&sr=8-7][Order Kit]]     |
+| 3D Printed Spool           |     4 | $0.20  | Zach Saegesser | [[mailto://zsaegess@stevens.edu][Contact Here]]  |
+| Model Skeleton             |     1 | $26.99 | Amazon         | [[https://www.amazon.com/gp/product/B077YPHQY2/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1][Order Here]]    |
+| 9 gram Servo               |     1 | $1.00  | AliExpress     | [[https://www.aliexpress.com/item/TCP-4X-Smart-Electronics-Rc-Mini-Micro-9g-1-6KG-Servo-SG90-for-airplane-aeroplane-6CH/32945021008.html?spm=a2g0s.9042311.0.0.15b24c4db9ONr0][Order Here]]    |
+| Fishing Line               |     1 | $2.79  | Ace Hardware   | [[https://www.acehardware.com/departments/outdoor-living/sporting-goods/fishing-gear/8476681][Order Here]]    |
+
+-----------
+*Total*: $88.69
