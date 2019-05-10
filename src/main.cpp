@@ -1,29 +1,28 @@
 #include <Arduino.h>
-#include <Servo.h>
 #include "ESP8266WiFi.h"
 
-Servo s;
+const char *ssid = "Stevens-Media";
+const char *password = "Stevens1870";
 
 void setup()
 {
+  pinMode(D8, OUTPUT);
   Serial.begin(9600);
-  s.attach(D8);
-  // put your setup code here, to run once:
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED)
+  {
+    delay(1000);
+    Serial.println("Connecting...");
+  }
+  Serial.print("Connected! IP: ");
+  Serial.println(WiFi.localIP());
+  delay(5000);
 }
 
 void loop()
 {
-  for (int i = 0; i < 180; i++)
-  {
-    s.write(i);
-    delay(2);
-  }
-  delay(50);
-  for (int i = 180; i >= 0; i--)
-  {
-    s.write(i);
-    delay(2);
-  }
-  Serial.println("rotated");
+  digitalWrite(D8, HIGH);
+  delay(1000);
+  digitalWrite(D8, LOW);
   delay(1000);
 }

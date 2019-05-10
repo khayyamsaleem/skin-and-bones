@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/khayyamsaleem/.platformio/penv/bin:/Users/khayyamsaleem/.platformio/penv:/Users/khayyamsaleem/dev/hardware/esp32-wrover/xtensa-esp32-elf/bin:/Users/khayyamsaleem/go/bin:/usr/local/miniconda3/bin:/Users/khayyamsaleem/dev/flutter/bin:/Users/khayyamsaleem/.meteor:/Users/khayyamsaleem/Library/Haskell/bin:/usr/local/texlive/2018/bin/x86_64-darwin:/usr/local/opt/elasticsearch@5.6/bin:/Users/khayyamsaleem/.opam/4.05.0/bin:/usr/local/opt/ncurses/bin:/usr/local/Cellar/zplug/2.4.2/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Applications/Racket v6.7/bin:/Users/khayyamsaleem/.rvm/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
