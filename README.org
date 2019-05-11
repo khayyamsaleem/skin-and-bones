@@ -1,6 +1,8 @@
 #+TITLE: Project Description
 #+OPTIONS: toc:nil
 
+#+ATTR_HTML :width 300px
+[[./photos/20190507_112547.jpg]]
 
 My final project is a marionette skeleton. The skeleton can perform serveral dances based on a programmer-defined combination of poses. The marionette's eyes glow red and it chatters its mouth during its dance.
 
