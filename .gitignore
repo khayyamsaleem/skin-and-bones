@@ -117,3 +117,6 @@ tags
 .history
 
 # End of https://www.gitignore.io/api/vim,emacs,macos,platformio,visualstudiocode
+*.pdf
+*.tex
+*\~
