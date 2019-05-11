@@ -1,0 +1,11 @@
+#+TITLE: Project Description
+#+OPTIONS: toc:nil
+
+
+My final project is a marionette skeleton. The skeleton can perform serveral dances based on a programmer-defined combination of poses. The marionette's eyes glow red and it chatters its mouth during its dance.
+
+The skeleton is 34" tall, mounted on a metal pole. The pole is drilled into a wooden base. The "cage" that the marionette lives in is supported by four 1" x 1" x 4' poles. The electronics live in the roof of the cage, topped by another plywood square. Each appendage is controlled by a spool of fishing line, that reels up the appendage when that motor is triggered by the code. The fishing line is rolled around a 3D printed spool, custom fit to the motor shaft.
+
+The lights in the skull's eyesockets and the teeth chatter is controlled by a separate microcontroller, the ESP8266. The chatter is driven by a 9-gram servo motor mounted on the skeleton's spine. On command, the servo yanks down a fishing line attached to the skeleton's jaw.
+
+This project allowed me to explore elementary animatronics in a fun way. With further iteration on the project, I would want to clean up the enclosure, make the piece mroe interactive, and hide the electronics with a facade.
